@@ -1,0 +1,5 @@
+python-telegram-bot==20.3
+chromadb==0.4.15
+sentence-transformers==2.2.2
+llama-cpp-python==0.2.23
+numpy>=1.22.0
